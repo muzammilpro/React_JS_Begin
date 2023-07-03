@@ -88,7 +88,7 @@ function App() {
           <div className="card" style={{ width: "15rem" }}>
             <div className="card-body">
               <center>
-                <img src="./Assets/card_img.png" alt="" className="card_img" />
+                <img src="./Assets/card_img.png" alt="Card Image" className="card_img" />
                 <h5 className="card-title">City Views</h5>
                 <h6 className="card-subtitle mb-2 text-muted">Cras eu Lorem a finbus veut nec <br />
                   fellis mollis suscript
